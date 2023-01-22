@@ -1,0 +1,31 @@
+body{
+    background-color: darkgoldenrod;
+}
+article{
+    font-family: inherit;
+    font-size: medium;
+    border: black solid;
+    margin: 3px;
+    padding: 3px;
+
+}
+img{
+    border: 2px black solid;
+    padding: 2px;
+    margin: auto;
+    height: auto;
+    width: 80%;
+    position: relative;
+
+}
+nav{
+    color: blueviolet;
+    font-family: monospace;
+}
+#ilet{
+    margin: auto;
+    position: relative;
+    margin-top: 10px;
+    left: 10px;
+    padding: 5px 30px;
+}
